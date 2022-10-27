@@ -1,0 +1,14 @@
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\obj\Debug\netcoreapp3.1\TCSandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\obj\Debug\netcoreapp3.1\TCSandbox.AssemblyInfoInputs.cache
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\obj\Debug\netcoreapp3.1\TCSandbox.AssemblyInfo.cs
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\obj\Debug\netcoreapp3.1\TCSandbox.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\bin\Debug\netcoreapp3.1\TCSandbox.exe
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\bin\Debug\netcoreapp3.1\TCSandbox.deps.json
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\bin\Debug\netcoreapp3.1\TCSandbox.runtimeconfig.json
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\bin\Debug\netcoreapp3.1\TCSandbox.runtimeconfig.dev.json
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\bin\Debug\netcoreapp3.1\TCSandbox.dll
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\bin\Debug\netcoreapp3.1\TCSandbox.pdb
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\obj\Debug\netcoreapp3.1\TCSandbox.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\obj\Debug\netcoreapp3.1\TCSandbox.dll
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\obj\Debug\netcoreapp3.1\TCSandbox.pdb
+C:\Users\Allen\Desktop\CSharp\CSharp\TimCoreySandbox\TCSandbox\TCSandbox\obj\Debug\netcoreapp3.1\TCSandbox.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Allen\Desktop\CSharp\CSharp\ConsoleUI\VariableTest\VariableTesting\VariableTesting\obj\Debug\VariableTesting.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\CSharp\CSharp\ConsoleUI\VariableTest\VariableTesting\VariableTesting\obj\Debug\VariableTesting.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\CSharp\CSharp\ConsoleUI\VariableTest\VariableTesting\VariableTesting\bin\Debug\VariableTesting.exe.config
+C:\Users\Allen\Desktop\CSharp\CSharp\ConsoleUI\VariableTest\VariableTesting\VariableTesting\bin\Debug\VariableTesting.exe
+C:\Users\Allen\Desktop\CSharp\CSharp\ConsoleUI\VariableTest\VariableTesting\VariableTesting\bin\Debug\VariableTesting.pdb
+C:\Users\Allen\Desktop\CSharp\CSharp\ConsoleUI\VariableTest\VariableTesting\VariableTesting\obj\Debug\VariableTesting.exe
+C:\Users\Allen\Desktop\CSharp\CSharp\ConsoleUI\VariableTest\VariableTesting\VariableTesting\obj\Debug\VariableTesting.pdb
